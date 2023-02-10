@@ -1,3 +1,2 @@
 #!/bin/bash
-cwd=$(pwd)
-echo "$cwd"
+echo "$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
