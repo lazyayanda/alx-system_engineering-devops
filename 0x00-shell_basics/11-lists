@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l -a $cwd /root /boot
+ls -l -a cwd /root /boot
