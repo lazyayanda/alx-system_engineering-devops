@@ -1,2 +1,2 @@
 #!/bin/bash"
-pwd "${BASH_SOURCE[0]}"
+echo "$(realpath "0-current_working_directory")"
