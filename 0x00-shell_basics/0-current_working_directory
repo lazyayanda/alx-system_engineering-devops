@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+#!/bin/bash"
+pwd "$(dirname "${BASH_SOURCE[0]}")"
