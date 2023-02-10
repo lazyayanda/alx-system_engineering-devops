@@ -1,2 +1,2 @@
 #!/bin/bash"
-pwd
+pwd "${BASH_SOURCE[0]}"
