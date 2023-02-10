@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a /root /cwd /boot
+ls -l --numeric-uid-gid -a /root /cwd /boot
